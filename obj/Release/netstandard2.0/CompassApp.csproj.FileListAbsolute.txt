@@ -1,0 +1,15 @@
+/Users/libanali/Desktop/CompassApp/CompassApp/bin/Release/netstandard2.0/CompassApp.deps.json
+/Users/libanali/Desktop/CompassApp/CompassApp/bin/Release/netstandard2.0/CompassApp.dll
+/Users/libanali/Desktop/CompassApp/CompassApp/bin/Release/netstandard2.0/ref/CompassApp.dll
+/Users/libanali/Desktop/CompassApp/CompassApp/bin/Release/netstandard2.0/CompassApp.pdb
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/CompassApp.csproj.AssemblyReference.cache
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/CompassApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/CompassApp.AssemblyInfoInputs.cache
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/CompassApp.AssemblyInfo.cs
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/CompassApp.csproj.CoreCompileInputs.cache
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/XamlC.stamp
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/CompassApp.dll
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/ref/CompassApp.dll
+/Users/libanali/Desktop/CompassApp/CompassApp/obj/Release/netstandard2.0/CompassApp.pdb
